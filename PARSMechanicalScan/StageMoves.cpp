@@ -1,6 +1,7 @@
 #include "StageMoves.h"
 
 int motorSpeed = 5000; // in Hz
+int test;
 
 void moveXStage(int steps, uInt8 clockSig[])
 {
